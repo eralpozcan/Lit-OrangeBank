@@ -5,3 +5,4 @@ my-element.bundled.js
 
 .vscode
 coverage
+.DS_Store
